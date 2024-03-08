@@ -1,4 +1,4 @@
-const apiKey = 'LAST_FM_API'; // Input your Last.fm API key here
+const apiKey = 'fdfb6b105d33a600d1f08b46fa46844e'; // Input your Last.fm API key here
 
 const form = document.getElementById('artistForm');
 const artistInput = document.getElementById('artistInput');
